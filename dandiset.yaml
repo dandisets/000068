@@ -5,18 +5,8 @@
 about: []
 access: []
 assetsSummary:
-  approach: []
-  dataStandard:
-  - identifier: RRID:SCR_015242
-    name: Neurodata Without Borders (NWB)
-    schemaKey: StandardsType
-  measurementTechnique: []
-  numberOfBytes: 362448
-  numberOfFiles: 2
-  numberOfSubjects: 1
-  schemaKey: AssetsSummary
-  species: []
-  variableMeasured: []
+  numberOfBytes: 0
+  numberOfFiles: 0
 citation: Testing (2021). (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000068/draft
 contributor: []
 description: Nothing to see
