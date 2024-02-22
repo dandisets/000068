@@ -3,7 +3,9 @@
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.0/context.json
 about: []
-access: []
+access:
+- schemaKey: AccessRequirements
+  status: dandi:OpenAccess
 assetsSummary:
   approach:
   - name: electrophysiological approach
@@ -27,7 +29,7 @@ assetsSummary:
   - CurrentClampStimulusSeries
   - CurrentClampSeries
   - VoltageClampStimulusSeries
-citation: Testing (2022). (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000068/draft
+citation: Testing (2024). (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000068/draft
 contributor: []
 dateCreated: '2021-04-23T17:21:24.766850+00:00'
 description: Nothing to see
@@ -41,7 +43,7 @@ manifestLocation:
 name: Testing
 protocol: []
 relatedResource: []
-repository: https://dandiarchive.org/
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
